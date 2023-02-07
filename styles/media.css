@@ -24,4 +24,8 @@
     text-align: center;
     margin: 3%;
   }
+
+  .content-header > h1 {
+    margin-top: 20%;
+  }
 }
