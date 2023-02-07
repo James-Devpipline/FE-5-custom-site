@@ -1,0 +1,28 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+  background-color: #202833;
+  box-shadow: -3px 4px 27px -5px rgba(0,0,0,0.75);
+  -webkit-box-shadow: -3px 4px 27px -5px rgba(0,0,0,0.75);
+  -moz-box-shadow: -3px 4px 27px -5px rgba(0,0,0,0.75);
+}
+
+.navbar > .link-wrapper {
+  height: 100%;
+}
+
+.navbar > .link-wrapper > .nav-link {
+  display: inline-block;
+  padding: 15px 10px;
+  cursor:pointer;
+}
+
+.navbar > div > div:hover{
+  color: #66fcf1;
+}

@@ -1,0 +1,8 @@
+.footer {
+  display: grid;
+  justify-content: center;
+  padding: .8% 0 1% 0;
+  margin-top: 5%;
+  text-align: center;
+  background-color: #202833;
+}

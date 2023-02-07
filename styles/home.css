@@ -1,0 +1,16 @@
+.main > .content-header{  
+  display: flex;
+  margin-top: 5%;
+  justify-content: center;
+}
+
+.content-body > p {
+  display: flex;
+  text-align: center;
+  margin: 0 10% 0 10%;
+}
+
+.content-gallery {
+  display: flex;
+  justify-content: center;
+}
