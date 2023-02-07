@@ -41,10 +41,14 @@ h2 {
   display: flex;
   flex-direction: column;
   text-align: center;
-  margin: 2% 0 2% 0;
+  margin: 2% 2% 2% 2%;
 }
 
 .content-gallery {
   display: flex;
   margin-top: 2%;
+}
+
+.contact-info-map {
+  margin-right: 2%;
 }

@@ -18,4 +18,10 @@
     display: flex;
     
   }
+  .question-one, .question-two, .question-three, .question-four {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 3%;
+  }
 }
